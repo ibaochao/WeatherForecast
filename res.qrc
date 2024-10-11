@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/main/暴雪.png</file>
+        <file>res/icons/main/暴雨.png</file>
+        <file>res/icons/main/大暴雨.png</file>
+        <file>res/icons/main/大雪.png</file>
+        <file>res/icons/main/大雨.png</file>
+        <file>res/icons/main/冻雨.png</file>
+        <file>res/icons/main/多云.png</file>
+        <file>res/icons/main/浮尘.png</file>
+        <file>res/icons/main/雷阵雨.png</file>
+        <file>res/icons/main/强沙尘暴.png</file>
+        <file>res/icons/main/晴.png</file>
+        <file>res/icons/main/沙尘.png</file>
+        <file>res/icons/main/沙尘暴.png</file>
+        <file>res/icons/main/特大暴雨.png</file>
+        <file>res/icons/main/未知.png</file>
+        <file>res/icons/main/雾.png</file>
+        <file>res/icons/main/雾霾.png</file>
+        <file>res/icons/main/小雪.png</file>
+        <file>res/icons/main/小雨.png</file>
+        <file>res/icons/main/扬沙.png</file>
+        <file>res/icons/main/阴.png</file>
+        <file>res/icons/main/雨夹雪.png</file>
+        <file>res/icons/main/阵雪.png</file>
+        <file>res/icons/main/阵雨.png</file>
+        <file>res/icons/main/中雪.png</file>
+        <file>res/icons/main/中雨.png</file>
+        <file>res/icons/tip/air.png</file>
+        <file>res/icons/tip/humidty.png</file>
+        <file>res/icons/tip/pm25.png</file>
+        <file>res/icons/tip/vision.png</file>
+        <file>res/icons/tip/wind.png</file>
+        <file>res/icons/tip/search.png</file>
+        <file>res/icons/tip/close.png</file>
+        <file>res/icons/main/夜晴.png</file>
+        <file>res/icons/main/夜多云.png</file>
+        <file>res/city_China.json</file>
+        <file>res/icons/tip/icon.png</file>
+    </qresource>
+</RCC>
